@@ -44,6 +44,9 @@ dependencies:
   # Dynamic Screen Scaling
   flutter_screenutil: ^3.2.0
 
+  # Alert Message
+  fluttertoast: ^4.0.1
+
   # Text Formatter
   intl: ^0.16.1
   flutter_localizations:
